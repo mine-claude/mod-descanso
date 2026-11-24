@@ -1,0 +1,15 @@
+{
+  "name": "descanso",
+  "version": "0.1.0",
+  "description": "Um saco de dormir que guarda o ponto de renascimento sem cama e sem pular a noite, e um alçapão que não fecha em cima de ninguém. Só a API pública: os mesmos ganchos que a cama e a porta do jogo.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
